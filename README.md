@@ -1,1 +1,4 @@
-# cs101-version-control-381
+# MY CS Profile
+## About Me
+- Name: Kittikarn Klinklan
+- Major: Computer Science
