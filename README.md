@@ -1,3 +1,5 @@
+# cs101-version-control-381
+
 # MY CS Profile
 ## About Me
 - Name: Kittikarn Klinklan
@@ -7,3 +9,7 @@
 - Learn Python programming
 - Learn Git and GitHub
 - Build a personal website
+
+## Technology Interests
+- Artificial Intelligence
+- Game Development
